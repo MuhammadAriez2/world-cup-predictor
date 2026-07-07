@@ -27,8 +27,11 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 - Quality of opposition is key limitation — ELO ratings would improve this
 - Home advantage measurably disappears at neutral venues
 
-## Next Steps
-- [ ] Add ELO ratings to account for opposition strength
-- [ ] Build scoreline predictor
-- [ ] Power BI dashboard for visualisation
-- [ ] Separate knockout stage model (no draws)
+## 📊 Power BI Dashboard
+Interactive dashboard featuring:
+- Top 20 teams by ELO rating
+- Match outcome distribution
+- ELO rating trends over time
+- Team rankings with conditional formatting
+
+![Dashboard Preview](dashboard_preview.png)
